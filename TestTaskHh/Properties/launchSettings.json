@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestTaskHh": {
+      "commandName": "Project",
+      "commandLineArgs": "update -i 0 -l Olegov"
+    }
+  }
+}
